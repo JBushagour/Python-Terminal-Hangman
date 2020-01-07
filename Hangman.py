@@ -30,7 +30,7 @@ def main():
             clearTerminal()
             if choice == "y":
                 # Start new game
-                intitalRun = 1
+                initialRun = 1
             else:
                 # End
                 break
